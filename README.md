@@ -36,43 +36,6 @@ Python-first developer focused on building agentic AI systems, data pipelines, a
 
 ---
 
-## Projects
-
-### [See Your Results — DTU](https://github.com/shivamrajput-py/See-Your-Results)
-A full-stack academic dashboard for Delhi Technological University students, live at [dturesults.streamlit.app](https://dturesults.streamlit.app/). Parses 80–100+ official result PDFs into structured data, computes university-wide and branch-wise rankings, provides placement statistics, SGPA calculator, study resources, and downloadable report cards. Used by thousands of students.
-
-`Python` `Streamlit` `Pandas` `Plotly` `pdfplumber` `Selenium` `ReportLab`
-
----
-
-### [Content Automation OS](https://github.com/shivamrajput-py/Content-Automation-AgenticAI)
-A production-grade multi-agent platform built on LangGraph that automates the full social media content lifecycle — from trend research to publishing. Three deeply integrated agentic pipelines handle script writing with self-correcting review loops, AI avatar reel generation via ElevenLabs and HeyGen, and direct publishing to Instagram, LinkedIn, and Twitter.
-
-`Python` `LangGraph` `Streamlit` `Apify` `ElevenLabs` `HeyGen` `OpenRouter`
-
----
-
-### [DTU EduBot — WhatsApp](https://github.com/shivamrajput-py/DTU-Edubot-whatsapp)
-A WhatsApp chatbot that delivers DTU study resources on command — PYQs, notes, books, assignments, playlists, upcoming events, and official notices. Built on Flask with a Meta Graph API webhook backend.
-
-`Python` `Flask` `Meta WhatsApp API`
-
----
-
-### [Tender Bid Predict](https://github.com/shivamrajput-py/Tender-Bid-Predict)
-ML-based prediction model for tender bid outcomes.
-
-`Python` `Jupyter Notebook`
-
----
-
-### [Fashion Trend Analysis](https://github.com/shivamrajput-py/Fashion-Trend-Analysis)
-Data analysis project exploring trends in the fashion industry.
-
-`Python`
-
----
-
 ## Currently Exploring
 
 - Advanced agentic AI architectures and multi-agent orchestration
