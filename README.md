@@ -6,7 +6,7 @@ B.Tech Student at **Delhi Technological University (DTU)** · Delhi, India
 
 ## About
 
-Python-first developer focused on building agentic AI systems, data pipelines, and deployed web applications. I build tools that solve real problems — the DTU results platform I built is actively used by thousands of students. My recent work sits at the intersection of LLM orchestration, automation, and practical data engineering.
+Python-first developer focused on building agentic AI systems, data pipelines, and deployed web applications. I build tools that solve real problems, the DTU results platform I built is actively used by thousands of students. My recent work sits at the intersection of LLM orchestration, automation, and practical data engineering.
 
 ---
 
