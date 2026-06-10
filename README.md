@@ -1,50 +1,29 @@
-# Shivam Rajput
+### Hi, I'm Shivam
 
-B.Tech Student at **Delhi Technological University (DTU)** · Delhi, India
+I'm a GenAI engineer and B.Tech Engineering Physics student at DTU ('27). I build and ship agentic AI systems. 2 products in production, 15+ paying B2B customers.
 
----
-
-## About
-
-Python-first developer focused on building agentic AI systems, data pipelines, and deployed web applications. I build tools that solve real problems, the DTU results platform I built is actively used by thousands of students. My recent work sits at the intersection of LLM orchestration, automation, and practical data engineering.
+Lead AI/ML Engineer at **[ArchGen AI Labs](https://archgen.in)** (Text-to-CAD, DTU-IIF incubated) and Lead GenAI Engineer at **[Trendsta](https://trendsta.in)** (AI content intelligence).
 
 ---
 
-## Tech Stack
+**What I work with:**
 
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**AI & Agentic**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Data & Analytics**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Scraping & Automation**
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Apify](https://img.shields.io/badge/Apify-1ABC9C?style=for-the-badge)
+- **Agentic AI:** LangGraph, LangChain, RAG, FAISS, Multi-agent pipelines
+- **LLM Stack:** Fine-tuning (SFT, RLHF, LoRA/QLoRA), HuggingFace, OpenRouter, Prompt Engineering
+- **Backend:** FastAPI, WebSocket, Async Python, Flask, Docker, AWS (EC2, Lambda)
+- **ML/DL:** PyTorch, Transformers, CNN/RNN/LSTM, scikit-learn, XGBoost
+- **Data:** Pandas, NumPy, Scrapy, Selenium, Streamlit, Plotly
 
 ---
 
-## Currently Exploring
+**A few things I've built:**
 
-- Advanced agentic AI architectures and multi-agent orchestration
-- ML modeling and predictive analytics
-- Scalable Python data pipelines
+- **ArchGen** - 8-stage autonomous Text-to-CAD pipeline (LangGraph + FAISS + CalculiX FEM + VLM). Top 8 @ IIT KGP E-Cell, Ciena x Nasscom TechForChange Cohort 4
+- **Trendsta** - Trend intelligence + AI content consultant. 0 to 5 B2B customers in 21 days
+- **[HellooMedia](https://github.com/shivamrajput-py/Content-Automation-AgenticAI)** - Zero-touch content pipeline (Apify + Claude + HeyGen + ElevenLabs). 24 hrs to 15 min production
+- **[RawCult Fashion Analytics](https://trendanalysisrawcult.streamlit.app)** - Scraped 6,000+ products, weighted trend scoring, Streamlit dashboard
+- **[DTU Results Platform](https://dturesults.streamlit.app)** - 50,000+ academic records, 3,000+ student users
 
 ---
 
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-rajput-3928a328a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamrajput-py)
+New Delhi &nbsp;|&nbsp; 98.shivrajput@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/shivam-rajput-3928a328a)
