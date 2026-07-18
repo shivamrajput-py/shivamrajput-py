@@ -2,8 +2,6 @@
 
 I'm a GenAI engineer and B.Tech Engineering Physics student at DTU ('27). I build and ship agentic AI systems. 2 products in production.
 
-Lead AI/ML Engineer at **[ArchGen AI Labs](https://archgen.in)** (Text-to-CAD, DTU-IIF incubated) and Lead GenAI Engineer at **[Trendsta](https://trendsta.in)** (AI content intelligence).
-
 ---
 
 **What I work with:**
